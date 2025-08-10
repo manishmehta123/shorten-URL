@@ -228,30 +228,5 @@ sudo systemctl restart nginx
 ```
 
 ---
+video
 
-## 📸 Screenshots
-
-### **Frontend - Shortener Page**
-
-![Shortener Page](https://via.placeholder.com/800x400?text=Shortener+Page)
-
-### **Admin Dashboard**
-
-![Admin Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard)
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
----
-
-If you want, I can also prepare **a more visually appealing README with badges, emojis, and live demo links** so your GitHub looks more professional.
-Do you want me to make it **stylish with badges & icons**? That will make it eye-catching for recruiters.
