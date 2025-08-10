@@ -226,7 +226,12 @@ Then restart:
 ```bash
 sudo systemctl restart nginx
 ```
+image 
+<img width="935" height="435" alt="image1" src="https://github.com/user-attachments/assets/98bdffc4-c996-414f-b003-640e8e7baada" />
+<img width="939" height="428" alt="image2" src="https://github.com/user-attachments/assets/8db6ded0-6678-4dd8-a415-43ddbbb0529b" />
 
 ---
-video
+video link-
+https://drive.google.com/file/d/12sItaB-vn8LIinHoTmZV50XxVlCnp2lI/view?usp=drivesdk
+
 
